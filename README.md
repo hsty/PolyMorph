@@ -1,2 +1,2 @@
-# GenericType
+# PolyMorph
 Please Read LICENSE.txt before using this repository. 
